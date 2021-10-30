@@ -17,7 +17,7 @@
 
 ```python
 def name():
-    fullname = "Soren ___ :D"
+    fullname = "Sorena ___ :D"
     return fullname
 
 def age()
