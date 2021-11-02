@@ -44,6 +44,7 @@ def CV():
 Python
 , HTML
 , CSS
+, js
 ...
 
 
